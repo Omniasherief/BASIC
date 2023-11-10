@@ -3,10 +3,10 @@ int main (void)
 	
 	
 	
+	int x,y;
 	
 	
-	
-	
+	char n;
 	
 	
 	
